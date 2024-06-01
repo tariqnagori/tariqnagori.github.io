@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/happyman-housing/static/css/main.22ca746b.css",
+    "main.js": "/happyman-housing/static/js/main.36ae4c7e.js",
+    "index.html": "/happyman-housing/index.html",
+    "main.22ca746b.css.map": "/happyman-housing/static/css/main.22ca746b.css.map",
+    "main.36ae4c7e.js.map": "/happyman-housing/static/js/main.36ae4c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ca746b.css",
+    "static/js/main.36ae4c7e.js"
+  ]
+}
